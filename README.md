@@ -9,7 +9,7 @@
   <img align="center" alt="Ma-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ma-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ma-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"/>
-  <img align="right" alt="Ma-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/829875111041302558/931632638526128178/download20220105163405.png">
+  <img align="right" alt="Ma-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/7B25Ol4JQ3IMwQ7cxG/giphy.gif?cid=ecf05e4742rgnd4pqlgdvbiujpdxmk82cjmbkfwa1u88eldd&rid=giphy.gif">
 </div>
 
   ##
