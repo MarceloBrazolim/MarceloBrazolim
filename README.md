@@ -1,6 +1,11 @@
 <div align="center">
+  <img alt="soyjack #1 pointing" height="150" style="border-radius:50px;" src="./img/1.png">
+  <img alt="vil creature" height="150" style="border-radius:50px;" src="./img/amogus.gif">
+  <img alt="soyjack #2 pointing" height="150" style="border-radius:50px;" src="./img/2.png">
+</div>
+
+<div align="center">
   <a href="https://github.com/MarceloBrazolim">
-    <img align="right" alt="Ma-pic" height="150" style="float: right; border-radius:50px;" src="https://c.tenor.com/mexZEx9GrnAAAAAi/amogus-plus.gif">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloBrazolim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloBrazolim&layout=compact&langs_count=7&theme=radical"/>
   </a>
