@@ -1,7 +1,7 @@
 <div align="center">
-  <img alt="soyjack #1 pointing" height="150" style="border-radius:50px;" src="./img/1.png">
-  <img alt="vil creature" height="150" style="border-radius:50px;" src="./img/amogus.gif">
-  <img alt="soyjack #2 pointing" height="150" style="border-radius:50px;" src="./img/2.png">
+  <img alt="soyjack #1 pointing" height="150" src="./img/1.png">
+  <img alt="vil creature" height="150" src="./img/amogus.gif">
+  <img alt="soyjack #2 pointing" height="150" src="./img/2.png">
 </div>
 
 <div align="center">
