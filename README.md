@@ -15,7 +15,7 @@
   <h1>Hello there!</h1>
   <p>I'm a junior full-stack developer.</p>
   <ul type="none">
-    <li>▶ Currently studying System Analisys and Development.</li>
+    <li>▶ Currently studying System Analysis and Development.</li>
     <li>▶ Working on some personal projects.</li>
     <li>▶ Accepting freelance jobs.</li>
   </ul>
